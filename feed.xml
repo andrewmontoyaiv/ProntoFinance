@@ -3,10 +3,10 @@
   <channel>
     <title>Pronto Finance</title>
     <description>Get the loan you need, when you need it</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Aug 2018 18:38:32 -0500</pubDate>
-    <lastBuildDate>Sat, 18 Aug 2018 18:38:32 -0500</lastBuildDate>
+    <link>http://andrewmontoyaiv.github.io/ProntoFinance/ProntoFinance/</link>
+    <atom:link href="http://andrewmontoyaiv.github.io/ProntoFinance/ProntoFinance/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 18 Aug 2018 21:32:59 -0500</pubDate>
+    <lastBuildDate>Sat, 18 Aug 2018 21:32:59 -0500</lastBuildDate>
     <generator>Jekyll v3.8.3</generator>
     
   </channel>
